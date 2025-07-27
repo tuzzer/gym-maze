@@ -40,7 +40,6 @@ The agent can also teleport from a portal to another portal of the same colour.
 * 30 cells x 30 cells: _MazeEnvRandom30x30Plus_
 
 ## Installation
-It should work on both Python 2.7+ and 3.4+. It requires pygame and numpy. 
 
 ```bash
 curl https://raw.githubusercontent.com/tuzzer/gym-maze/refs/heads/main/setup.py | bash
